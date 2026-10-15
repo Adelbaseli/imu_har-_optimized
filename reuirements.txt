@@ -1,2 +1,5 @@
 tensorflow-cpu
 tensorflow[and-cuda]==2.21.0
+tf2onnx==1.17.0 
+onnxruntime
+tensorrt
